@@ -1,6 +1,6 @@
 from tkinter import Tk, Radiobutton, Button, Label, StringVar, IntVar, Entry
 
-from height_converter import clear
+#from height_converter import clear
 
 class TipCalculator():
     def __init__(self):
