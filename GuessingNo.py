@@ -8,7 +8,6 @@ import random
 from tkinter import *
 from tkinter import ttk, Label,Entry,Button,Variable
 
-
 app = Tk()
 
 app.title("Guess the Number!")
@@ -29,7 +28,6 @@ l1.place(relx= .12, rely= .1)
 l1= Label(labelframe, text="Guess a number between 1 and 100:")
 l1.place(relx= .10, rely= .3)
 
-
 #Label for VS
 l2= Label(labelframe, text="VS", font= ('Helvetica 18 bold'), bg="khaki3")
 l2.place(relx= .45, rely= .1)
@@ -45,7 +43,6 @@ l3.place(relx= .54, rely= .3)
 #Label for winner
 l2= Label(labelframe, text="Yay!", font= ('Helvetica 18 bold'), bg="khaki3")
 l2.place(relx= .45, rely= .8)
-
 
 app.mainloop()
 
