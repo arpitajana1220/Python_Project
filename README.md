@@ -1,2 +1,3 @@
 # Python_Project
-Exploring Tkinter
+Exploring Tkinter and learning and practicing python concepts with mini projects 
+
