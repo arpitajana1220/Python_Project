@@ -1,3 +1,8 @@
+"""
+When we want some creative outputs, some fun colorful displays.
+Colorama is just the right library to acheive that !
+Using this library we can customize our outputs with different colours as demonstarted below 
+"""
 import colorama
 from colorama import Fore, Back, Style
 colorama.init(autoreset=True)
