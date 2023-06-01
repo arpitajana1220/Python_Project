@@ -1,3 +1,5 @@
+#update the height converter
+#convert meter to centimeter
 
 from tkinter import Tk,Button,Label,DoubleVar,Entry
 
@@ -39,6 +41,5 @@ convert_btn.grid(column=0, row=3, padx=15)
 
 clear_btn = Button(window, text = 'Clear', bg = 'red', fg='white', width = 14, command = clear)
 clear_btn.grid(column=1, row=3, padx=15)
-
 
 window.mainloop()
