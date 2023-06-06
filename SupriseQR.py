@@ -1,4 +1,12 @@
+'''
+Wonder where to use this?
+Here are few examples
 
+1. Generate a QR code with your message inside and attach it with physical gifts
+2. Lucky draw game - Generate multiple QR code with random word and one "win" word who ever scans win voila winner found!
+
+Feel free to experiment with ideas 
+'''
 import pyqrcode
 import png
 
