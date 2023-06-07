@@ -1,3 +1,8 @@
+'''
+In this program we are converting a photo to text and extracting useful information 
+For photo to text conversion we are using pytesseract library
+For data extraction we are using the basic python silicing 
+'''
 # Import the required libraries
 import pytesseract
 from PIL import Image
