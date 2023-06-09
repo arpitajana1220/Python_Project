@@ -1,5 +1,8 @@
+"""
+Currency converter is very useful program, it can be edited further to include currency convertion of differnmt countries 
+it could also be used as a part of app 
+"""
 from tkinter import *
-
 from pyparsing import col
 
 class CurrencyConverter:
