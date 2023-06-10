@@ -1,3 +1,6 @@
+"""
+This is classic copy of multi player board game 
+"""
 # This is a simple 2D game of Hex, whoever creates a straight line WINS!
 import pygame
 import sys
