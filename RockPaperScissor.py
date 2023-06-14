@@ -1,3 +1,8 @@
+"""
+We all must have at least once played Rock Paper Scissors once in our childhood 
+This code lets you play that same nostalgic game with a computer
+Happy gaming!
+"""
 #import required libraries
 from tkinter import *
 from tkinter import ttk
