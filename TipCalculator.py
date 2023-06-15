@@ -1,3 +1,4 @@
+# This could be a quick web app to calculate waiter tip 
 from tkinter import Tk, Radiobutton, Button, Label, StringVar, IntVar, Entry
 
 #from height_converter import clear
