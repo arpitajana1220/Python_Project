@@ -1,6 +1,5 @@
 from time import time
 start = time()
-
 # Python program to create acronyms
 word = "Artificial Intelligence"
 text = word.split()
