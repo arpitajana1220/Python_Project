@@ -7,6 +7,7 @@ Here are few examples
 
 Feel free to experiment with ideas 
 '''
+
 import pyqrcode
 import png
 
